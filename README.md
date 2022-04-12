@@ -14,3 +14,4 @@ There are two levels to this homework assignment. The second level is optional, 
 * Count the number of records (rows) in the dataset.
 * Transform the dataset to fit the tables in the schema file. Be sure the DataFrames match in data type and in column name.
 * Load the DataFrames that correspond to tables into an RDS instance. Note: This process can take up to 10 minutes for each. Be sure that everything is correct before uploading.
+### Shoes csv uploaded as an example (other files were too big to upload)
